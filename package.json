@@ -3,7 +3,7 @@
 	"author": "Brahim Jarallah",
 	"description":"This is a sample project app deployed to cloud",
 	"keywords": ["cloud node app", "freecodecamp", "express.js", "node server"],
-	"licence": "IBM",
+	"license": "IBM",
 	"dependencies": {
 		"express": "^4.16.1"
 	},
