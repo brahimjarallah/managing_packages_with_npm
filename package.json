@@ -12,7 +12,7 @@
 	"version": "1.2.0",
 	"dependencies": {
 		"express": "^4.16.1",
-		"moment": "~2.10.2",
+		"moment": "^2.10.2",
 		"semver": "^7.3.5"
 	},
 	"main": "server.js",
